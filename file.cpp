@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout<<"Welcome!;
+	std::cout<<"Welcome!"<<"Algorithm";
 	system("pause");
 }
