@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout<<"Welcome!;
+	std::cout<<"Welcome to my World";
 	system("pause");
 }
